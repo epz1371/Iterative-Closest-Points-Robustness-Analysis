@@ -76,7 +76,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+©
+If you use this project or parts of it, you must cite the author and this GitHub repository as the source in your work.
 
 ## Acknowledgments
 
